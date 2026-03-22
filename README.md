@@ -58,15 +58,7 @@ Example:
 
 ---
 
-### 2. Chatbot (With Options)
-
-`GET /ask-ai-options?prompt=your_text`
-
-Uses custom model + temperature configuration.
-
----
-
-### 3. Image Generation
+### 2. Image Generation
 
 `GET /generate-image?prompt=your_text&quality=hd&n=1&width=1024&height=1024`
 
@@ -78,7 +70,7 @@ Parameters:
 
 ---
 
-### 4. Recipe Generator
+### 3. Recipe Generator
 
 `GET /recipe-creator?ingredients=...&cuisine=...&dietaryRestriction=...`
 
@@ -132,20 +124,10 @@ cd multimind-ai
 
 mvn spring-boot:run
 
-
----
-
-## ⚠️ Limitations
-
-- No authentication or rate limiting  
-- No retry mechanism for API failures  
-- AI responses are non-deterministic  
-
 ---
 
 ## 🔮 Future Improvements
 
-- Add orchestrator for true multi-agent behavior  
 - Implement logging and monitoring  
 - Add conversation memory  
 - Introduce retry and fallback mechanisms  
