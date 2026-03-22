@@ -86,13 +86,19 @@ Example:
 > Add your screenshots inside a `screenshots` folder
 
 ### 🔹 Chatbot Response
-![Chat Screenshot](./screenshots/chat.png)
+
+<img width="1920" height="1080" alt="chatbot" src="https://github.com/user-attachments/assets/afec0e49-27ec-4cdc-b264-7e5f7dbfe0ff" />
 
 ### 🔹 Image Generation
-![Image Screenshot](./screenshots/image.png)
+
+<img width="1920" height="1080" alt="Image generator" src="https://github.com/user-attachments/assets/8e8b9e01-253b-40b0-8ceb-835737ccdc0b" />
 
 ### 🔹 Recipe Generator
-![Recipe Screenshot](./screenshots/recipe.png)
+
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e3e678e7-728f-4c8b-b377-7fa23e6d48e6" />
+
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/46e28540-319c-49f6-a8a8-9b556c512d74" />
+
 
 ---
 
