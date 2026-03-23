@@ -87,18 +87,17 @@ Example:
 
 ### 🔹 Chatbot Response
 
-<img width="1920" height="1080" alt="chatbot" src="https://github.com/user-attachments/assets/afec0e49-27ec-4cdc-b264-7e5f7dbfe0ff" />
+![WhatsApp Image 2026-03-23 at 7 13 32 PM](https://github.com/user-attachments/assets/41731cf5-0b25-4b9d-b388-95f35acb6577)
 
 ### 🔹 Image Generation
 
-<img width="1920" height="1080" alt="Image generator" src="https://github.com/user-attachments/assets/8e8b9e01-253b-40b0-8ceb-835737ccdc0b" />
+![WhatsApp Image 2026-03-23 at 7 13 31 PM](https://github.com/user-attachments/assets/50d24535-72f1-4609-b927-9a4c70ed9c38)
 
 ### 🔹 Recipe Generator
 
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e3e678e7-728f-4c8b-b377-7fa23e6d48e6" />
+![WhatsApp Image 2026-03-23 at 7 13 32 PM (1)](https://github.com/user-attachments/assets/d432924f-6447-4ea2-b23f-56f4f6e1fa49)
 
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/46e28540-319c-49f6-a8a8-9b556c512d74" />
-
+![WhatsApp Image 2026-03-23 at 7 13 32 PM (2)](https://github.com/user-attachments/assets/d6b8751f-b11e-4877-818e-06fbd299754b)
 
 ---
 
